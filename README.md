@@ -18,11 +18,5 @@ Add the chrome extension from the link below
 
 After installation, click on the extension icon on the right of the address bar, eenter the Github Handle to search and click on 'Check Progress'.
 
-## Contributors
 
-[adeora7](https://github.com/adeora7)
-[zuik](https://github.com/zuik)
-[raindogg](https://github.com/raindogg)
-[ehnydeel](https://github.com/ehnydeel)
-[bhaveshgohel](https://github.com/bhaveshgohel)
-[rafaelklaessen](https://github.com/rafaelklaessen)
+IDK why i'm doing this
